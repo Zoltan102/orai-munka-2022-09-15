@@ -6,3 +6,5 @@ hozzaad(2);
 console.log(atlag());
 hozzaad(3);
 console.log(atlag());
+hozzaad(-3);
+console.log(atlag());
